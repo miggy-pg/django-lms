@@ -4,4 +4,12 @@ api/migrations
 core/migrations
 userauths/migrations
 
+backend/__pycache__
+api/migrations/__pycache__
+core/migrations/__pycache__
+userauths/migrations/__pycache__
+backend/userauths/__pycache__
+backend/core/__pycache__
+backend/api/__pycache__
+
 .env
