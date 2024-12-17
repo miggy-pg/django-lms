@@ -1,0 +1,7 @@
+venv/
+
+api/migrations
+core/migrations
+userauths/migrations
+
+.env
